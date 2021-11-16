@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EditTexts</string>
+    <string name="hello">Hello</string>
+    <string name="add">Add</string>
+    <string name="first_number">First Number</string>
+    <string name="second_number">Second Number</string>
+</resources>
